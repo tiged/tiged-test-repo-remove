@@ -2,5 +2,9 @@
   {
     "action": "clone",
     "src": "Rich-Harris/degit-test-repo"
+  },
+  {
+    "action": "remove",
+    "files": ["file.txt"]
   }
 ]
