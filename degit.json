@@ -1,7 +1,7 @@
 [
   {
     "action": "clone",
-    "src": "Rich-Harris/degit-test-repo"
+    "src": "tiged/tiged-test-repo"
   },
   {
     "action": "remove",
